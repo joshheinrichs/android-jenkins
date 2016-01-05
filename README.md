@@ -1,4 +1,2 @@
-# Android-Jenkins
-A basic android studio project containing Gradle, Robolectric, Robotium, Mockito and JaCoCo, capable of being built on Jenkins. Now supports Travis-CI
-
-![](https://travis-ci.org/Decateron/Android-Jenkins.svg?branch=master)
+# android-jenkins
+A basic Android Studio project, using Gradle for building and Robolectric, Robotium, Mockito and JaCoCo for testing, capable of being ran on Jenkins. This was meant to ensure that the testing tools for the Android portion of my group's CMPT 371 project, [geosource](https://github.com/knames/geosource) would work properly.
